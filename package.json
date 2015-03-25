@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/topless/spa-gulp-coffee-less"
+    "url": "http://github.com/topless/gulp-coffee-less-webapp"
   },
   "devDependencies": {
     "coffee-script": "~1",
